@@ -16,20 +16,22 @@ the use of core data structures and clean software design.
 - Graph (Undirected)
 
 ## 🗂 Project Structure
+```text
 Airport-Management-System/
-├── src/            # Core implementation files
+├── src/
 │   ├── flight.c
 │   ├── passenger.c
 │   ├── graph.c
 │   └── main.c
 │
-├── include/        # Header files
+├── include/
 │   ├── flight.h
 │   ├── passenger.h
 │   └── graph.h
 │
-├── README.md       # Project documentation
-└── .gitignore      # Ignored build files
+├── README.md
+└── .gitignore
+
 
 
 
