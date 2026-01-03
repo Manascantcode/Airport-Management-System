@@ -17,17 +17,20 @@ the use of core data structures and clean software design.
 
 ## 🗂 Project Structure
 Airport-Management-System/
-├── src/
-│ ├── flight.c
-│ ├── passenger.c
-│ ├── graph.c
-│ └── main.c
-├── include/
-│ ├── flight.h
-│ ├── passenger.h
-│ └── graph.h
-├── README.md
-└── .gitignore
+├── src/            # Core implementation files
+│   ├── flight.c
+│   ├── passenger.c
+│   ├── graph.c
+│   └── main.c
+│
+├── include/        # Header files
+│   ├── flight.h
+│   ├── passenger.h
+│   └── graph.h
+│
+├── README.md       # Project documentation
+└── .gitignore      # Ignored build files
+
 
 
 ## ▶️ How to Run
